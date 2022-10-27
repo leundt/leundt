@@ -1,5 +1,5 @@
 ## Hey folks 😄
-- ⚡ I'm **Mundt** | Front-End Developer
+- ⚡ I'm **Leandro Mundt** | Front-End Developer
 - 📚 I'm currently learning about **TypeScript** and **React**
 - 🔗 You can check all my networks at this [link](https://linktr.ee/leundt)
 - 💡 Fun fact, I have a lot of experience changing light bulbs (**1.93m** or **6'4** tall)
